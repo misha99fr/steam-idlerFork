@@ -1,4 +1,4 @@
-# Steam IDLE
+# SteamIDLE FORK
 
 [![Support via Trakteer](https://img.shields.io/badge/Support-me!-green)](https://trakteer.id/annurdien)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/annurdien/IDLIX-API/blob/main/LICENSE)
